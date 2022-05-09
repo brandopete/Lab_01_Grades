@@ -1,0 +1,3 @@
+C:/Users/Owner/Documents/CS235/Lab_01_Grades/cmake-build-debug/CMakeFiles/Lab_01_Grades.dir
+C:/Users/Owner/Documents/CS235/Lab_01_Grades/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Documents/CS235/Lab_01_Grades/cmake-build-debug/CMakeFiles/rebuild_cache.dir
